@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar vídeos com histórias dramáticas utilizando IA, para publicação no youtube ou tictok.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGpt
+- Gemini 
+- Site app.ltx.studio, para geração de vídeos com IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro utilizei o chatgpt para gerar uma lista de ideias com histórias dramáticas que prendessem o público, depois selecionei uma das ideias que mais me agradou e pedi para gerar uma história dramática. Em seguida pedi para ele criar uma sinópse da história. Fiz o memso processo para o GEMINI, como o gemini se saiu melhor, com maiores detalhes sobre as histórias, acabei optando pelo Gemini.
+Com a sinópse gerada, copiei e a levei para o site app.ltx.studio, lá criei o projeto, incluí a sinópse e pedi para gerar o vídeo. A própria IA escolheu o cenário, atores, voz e música para a criação do vídeo. Você tem a opção de alterar e incluir cenários, música, voz, imagens, estilo, etc, no o seu vídeo quando achar conveniente. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Tem que ter tempo e determinação para testar várias plataformas que utilizam IA para tirar o melhor delas. Algumas ainda são bem incipientes no mundo das IA, e com isso, seu projeto pode não ser bem sucedido.
