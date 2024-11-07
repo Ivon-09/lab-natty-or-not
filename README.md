@@ -1,7 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Criar vídeos com histórias dramáticas utilizando IA, para publicação no youtube ou tictok.
+Criar vídeos com histórias dramáticas utilizando IA, para publicação no youtube e tiktok.
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGpt
